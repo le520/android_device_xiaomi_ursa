@@ -1,7 +1,8 @@
 [
   {
-    "repository": "android_device_xiaomi_ursa-common",
+    "repository": "le520/android_device_xiaomi_ursa-common",
     "target_path": "device/xiaomi/sdm845-common"
     "branch": "dot11"
+    "remote": "github"
   }
 ]
